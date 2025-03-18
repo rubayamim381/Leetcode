@@ -1,2 +1,2 @@
 # Leetcode
-Practice and saved differennt DSA, OOP, SQL related problems
+Practice and saved different DSA, OOP, SQL related problems
